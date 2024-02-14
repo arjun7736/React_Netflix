@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    width: 100vw-1;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+}
+
+.logo {
+    width: 80px;
+}
+
+.avatar {
+    width: 30px;
+}
+
+.nav-items {
+    color: antiquewhite;
+    display: flex;
+    padding-bottom: 10px;
+
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    list-style-type: none;
+}
